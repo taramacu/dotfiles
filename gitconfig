@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = taraculpin@gmail.com
+	name = Tara Culpin
